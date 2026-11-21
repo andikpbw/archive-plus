@@ -1,0 +1,3 @@
+# Keep published pub.dev package tarball ultra-lightweight;
+# README media assets are served via GitHub raw HTTPS URLs.
+doc/assets/

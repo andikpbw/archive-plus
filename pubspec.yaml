@@ -1,0 +1,25 @@
+name: archive_plus
+description: >-
+  Modern, lightweight, zero-dependency archive and compression library for Dart
+  and Flutter supporting ZIP, TAR, GZIP, ZLIB, BZIP2, and LZ4 with security
+  guards.
+version: 1.0.0
+homepage: https://github.com/andikpbw/archive-plus
+repository: https://github.com/andikpbw/archive-plus
+issue_tracker: https://github.com/andikpbw/archive-plus/issues
+funding:
+  - https://humanize.id
+
+topics:
+  - archive
+  - compression
+  - zip
+  - tar
+  - gzip
+
+environment:
+  sdk: ^3.8.0
+
+dev_dependencies:
+  lints: ^6.1.0
+  test: ^1.25.0
