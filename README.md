@@ -22,12 +22,12 @@
 
 ---
 
-## Live UI Studio Preview
+## Real App UI Preview
 
-See **`archive_plus`** running live — compressing 33 files with real-time `ArchiveProgress` telemetry, inspecting ZIP Central Directory entries with **zero decompression**, extracting single entries selectively, and neutralizing **Zip-Slip** & **Zip-Bomb** attacks via `ArchiveSecurityPolicy`:
+See **`archive_plus`** running inside a cross-platform Desktop & Mobile archive manager — compressing folders with live `ArchiveProgress` callbacks, browsing ZIP Central Directory entries with **zero decompression**, selectively extracting a single file, and blocking **Zip-Slip** & **Zip-Bomb** payloads via `ArchiveSecurityPolicy`:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andikpbw/archive-plus/main/doc/assets/archive_plus_demo.gif" alt="ArchivePlus Studio Live Animated UI Demo" width="100%" />
+  <img src="https://raw.githubusercontent.com/andikpbw/archive-plus/main/doc/assets/archive_plus_demo.gif" alt="ArchivePlus Desktop and Mobile App Live Demo" width="100%" />
 </p>
 
 ---
